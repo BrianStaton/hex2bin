@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1566858622 source:/home/bruno/Workspace/hex2bin/hex2bin.cpp
+	<stdio.h>
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<libgen.h>
+	<getopt.h>
+
